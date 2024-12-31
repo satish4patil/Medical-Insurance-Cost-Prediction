@@ -6,6 +6,5 @@ The following regression algorithms were implemented and evaluated:
 * Gradient Boosting Regressor with k-Fold Cross-Validation and Grid Search
 * Support Vector Regressor with k-Fold Cross-Validation and Grid Search
 
-  Compared all the algorithms results using table 
-
+Compared the results of all the algorithms using a table.
 
