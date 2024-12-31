@@ -5,3 +5,6 @@ Decision Tree Regressor
 Random Forest Regressor
 Gradient Boosting Regressor
 Support Vector Regressor
+k-Fold Cross-Validation
+Grid Search
+
